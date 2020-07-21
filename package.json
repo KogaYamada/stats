@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^14.0.24",
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
   }
